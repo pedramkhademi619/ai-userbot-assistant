@@ -1,0 +1,9 @@
+rubpy>=7.0
+telethon>=1.36
+openai>=1.30
+python-dotenv>=1.0
+
+# Cross-platform fallback backend for the encrypted secrets store
+# (bot/secrets_store.py). Not required on Windows, where DPAPI is used
+# instead, but installing it there too is harmless.
+cryptography>=42.0

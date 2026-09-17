@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.env
+
+# Rubika session databases (contain login credentials)
+*.rp
+
+# Telethon session databases (contain login credentials)
+*.session
+*.session-journal
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
