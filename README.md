@@ -1,8 +1,12 @@
-# AI Userbot Assistant
+<p align="center">
+  <img src="docs/logo.svg" alt="AI Userbot Assistant" width="640">
+</p>
 
-[![CI](https://github.com/pedramkhademi619/ai-userbot-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/pedramkhademi619/ai-userbot-assistant/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
+<p align="center">
+  <a href="https://github.com/pedramkhademi619/ai-userbot-assistant/actions/workflows/ci.yml"><img src="https://github.com/pedramkhademi619/ai-userbot-assistant/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.11%2B-blue.svg" alt="Python 3.11+"></a>
+</p>
 
 A desktop app that turns your personal messenger account into an
 AI-powered auto-reply assistant. It logs in as *you* (a "userbot"),

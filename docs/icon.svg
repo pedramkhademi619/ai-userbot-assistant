@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="AI Userbot Assistant logo">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="96" y1="112" x2="416" y2="408" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#tile)"/>
+  <path d="M168 112H344A72 72 0 0 1 416 184V264A72 72 0 0 1 344 336H236L148 408L168 336A72 72 0 0 1 96 264V184A72 72 0 0 1 168 112Z" fill="url(#bubble)"/>
+  <path d="M256 152Q268 212 328 224Q268 236 256 296Q244 236 184 224Q244 212 256 152Z" fill="#ffffff"/>
+  <path d="M352 148Q356 166 374 170Q356 174 352 192Q348 174 330 170Q348 166 352 148Z" fill="#ffffff" fill-opacity="0.9"/>
+  <circle cx="398" cy="122" r="30" fill="#22c55e" stroke="#0f172a" stroke-width="12"/>
+</svg>
