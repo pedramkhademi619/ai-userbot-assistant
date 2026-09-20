@@ -216,3 +216,7 @@ pytest
 ## License
 
 Released under the [MIT License](LICENSE).
+
+## Author
+
+Made by [Pedram Khademi](https://github.com/pedramkhademi619) ([@pedramkhademi619](https://github.com/pedramkhademi619)). If this project is useful to you, a ⭐ on the repo helps others find it.

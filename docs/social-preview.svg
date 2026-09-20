@@ -30,4 +30,5 @@
   <text x="590" y="395" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="104" font-weight="700" fill="#60a5fa">Assistant</text>
   <text x="594" y="460" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="34" fill="#9ca3af">AI auto-reply for Rubika, Telegram &amp; more</text>
   <text x="594" y="506" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="34" fill="#9ca3af">OpenAI-compatible · Open source</text>
+  <text x="594" y="588" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" fill="#60a5fa">github.com/pedramkhademi619</text>
 </svg>
