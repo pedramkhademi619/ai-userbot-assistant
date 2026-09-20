@@ -19,6 +19,20 @@ deliberately platform-agnostic (see [How it works](#how-it-works)) so
 more messengers can be added over time — see
 [Contributing](#contributing).
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/chat.png" alt="Live chat dashboard with bot controls and system prompt editor" width="900">
+  <br><sub>Live chat dashboard: watch every message, start/stop the bot, edit the system prompt.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/setup.png" alt="Onboarding wizard: Telegram login"><br><sub>Onboarding wizard</sub></td>
+    <td width="50%"><img src="docs/screenshots/ai-settings.png" alt="AI backend settings and system prompt"><br><sub>AI backend and system prompt setup</sub></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Multiple messengers, one codebase** — connect to Rubika (via [rubpy](https://pypi.org/project/rubpy/))
